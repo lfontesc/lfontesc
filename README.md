@@ -83,7 +83,8 @@ Na visão geral abaixo, você encontrará minhas experiências de trabalho:
 [**Brisanet**](https://brisanet.com.br/) \
  full-time • ago. de 2020 – o momento Duração 1 ano +\
 Serviços: `Dev Front-End`\
-<br/>
+
+<br><br/>
 
 [<img align="left" height="100px" width="100px" alt="Brisanet" src="https://media-exp1.licdn.com/dms/image/C560BAQEcgWJknR1N1A/company-logo_200_200/0/1519909577819?e=1640217600&v=beta&t=dAjM2HFC9aj7F5zGa9c6wLRvLpF6oL7O225bHfG3vT0"/>](https://contweb.com.br/)
 
